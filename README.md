@@ -16,8 +16,8 @@
         <td  align="center">
         <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
         <img width="900" height="1" alt="">
-   <a href="https://www.buymeacoffee.com/saannimeshk"> Buy me a coffee :blush:</a>
       </td>
+      <td><a href="https://www.buymeacoffee.com/saannimeshk"> Buy me a coffee :blush:</a></td>
       </tr>
 <tr>
     <th>🏆 Achievements/th>
