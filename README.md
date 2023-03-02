@@ -1,19 +1,5 @@
-# Sahan Nimesha :blush: :blush:
-
-
+# Hi, I'm Sahan Nimesha :blush:
 <table>
-  <tr>
-    <th>🈷️ Languages activity</th>
-  </tr>
-  <tr>
-  <td align="center">
-        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/sahannimesh99/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
   <tr>
     <th>📌 Starred topics</th>
     </tr>
@@ -41,5 +27,9 @@
         <details><summary>Detailed display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
+      </table>
+      <center>
+      <a href="https://www.buymeacoffee.com/saannimeshk"> Buy me a coffee :blush:</a>
+      </center>
       
 
