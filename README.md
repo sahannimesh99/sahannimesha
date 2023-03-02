@@ -1,4 +1,6 @@
 # Hi, I'm Sahan Nimesha :blush:
+<a href="https://www.buymeacoffee.com/saannimeshk"> Buy me a coffee :blush:</a>
+
 <table>
   <tr>
     <th>📌 Starred topics</th>
@@ -17,10 +19,7 @@
         <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
         <img width="900" height="1" alt="">
       </td>
-      </tr>
-      <tr>
-      <td><a href="https://www.buymeacoffee.com/saannimeshk"> Buy me a coffee :blush:</a></td>
-      </tr>
+      </tr>    
 <tr>
     <th>🏆 Achievements/th>
     </tr>
