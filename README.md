@@ -21,7 +21,7 @@
       </td>
       </tr>    
 <tr>
-    <th>🏆 Achievements/th>
+    <th>🏆 Achievements</th>
     </tr>
     <tr>
         <td  align="center">
